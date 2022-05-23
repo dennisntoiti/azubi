@@ -1,9 +1,9 @@
 #!bin/bash
 #https://github.com/dennisntoiti/azubi
-A = 2
-B = 3
+X = 2
+Y = 3
 
-if [ $A -gt $B ] 
+if [ $X -gt $Y ] 
 then 
 echo "X is greater than Y"
 elif [ $A -lt $B ]
